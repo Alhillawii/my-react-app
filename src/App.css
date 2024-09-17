@@ -106,9 +106,10 @@ header>h2 {
 
 .po {
   height: 275px;
-  border-radius: 200px;
+  border-radius: 50%;
   width: 350px;
   position: relative;
+  margin-top:100px ;
   right: 9em;
 
 }
