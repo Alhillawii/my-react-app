@@ -1,5 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+// import { IconName } from "react-icons/im"
+import { Im500Px } from "react-icons/im";
+import { ImAngry } from "react-icons/im";
+
 
 function App() {
   return (
@@ -9,6 +13,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <Im500Px />
+        <br></br>
+        <ImAngry />
+
         <a
           className="App-link"
           href="https://reactjs.org"
